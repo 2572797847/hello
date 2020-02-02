@@ -1,7 +1,0 @@
-#icclude<stdio.h>
-int main(void)
-{
-  printf("hleeo world");
-  return 0;
-}  
-  
